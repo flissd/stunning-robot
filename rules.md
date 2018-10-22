@@ -17,11 +17,12 @@ Create deadlines for each task someone is responsibe for. Give updates on your p
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+Let the group know via the group chat you're having problems. Figure out a time we can get together with some or all of the group and
+figure out the issue.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-We can switch tasks if someone finds something hard or work on any method altogether to meet the deadlines
+
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
