@@ -26,6 +26,6 @@ We can switch the tasks with someone or if any method is hard/long then we can w
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Group caht everyday to check if our teammates have problem doing their task or not.
 
 
