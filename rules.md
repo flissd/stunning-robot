@@ -21,7 +21,7 @@ Create deadlines for each task someone is responsibe for. Give updates on your p
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We can switch tasks if someone finds something hard or work on any method altogether to meet the deadlines
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
