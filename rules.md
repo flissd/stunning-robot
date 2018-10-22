@@ -26,6 +26,6 @@ figure out the issue.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Group chat eveyday to make sure if the teammate has problem doing his task.
 
 
