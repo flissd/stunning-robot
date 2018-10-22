@@ -9,11 +9,11 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We could do a voltuneer system to do each task, if no one wants a specefic job do rock paper scissors.
+We could do a volunteer system to do each task, if no one wants a specific job do rock paper scissors.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Create deadlines for each task someone is responsibe for. Give updates on your progress in the group chat.
+Create deadlines for each task for which someone is responsible. Give updates on your progress in the group chat.
 
 
 ## How will will communicate difficulties with a task assigned to us
@@ -26,6 +26,6 @@ We can switch the tasks with someone or if any method is hard/long then we can w
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Group caht everyday to check if our teammates have problem doing their task or not.
+Group chat everyday to check if our teammates have problems doing their task or not.
 
 
