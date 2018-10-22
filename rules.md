@@ -22,10 +22,10 @@ figure out the issue.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We can switch the tasks with someone or if any method is hard/long then we can work on it together
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Group chat eveyday to make sure if the teammate has problem doing his task.
+
 
 
