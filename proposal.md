@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 33 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,30 +29,37 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Help people, mainly children, with concentration and memory using a memory game.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+"Find the Objects!"
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+Output a matrix showing the locations of a certain amount of objects. The player then must recall where those objects were located. If they get it right, they're given a harder puzzle, if they're wrong they are given an easier puzzle.
+After given a certain number of puzzles, the program will give the user a score.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+The user will input their recolection of the placement of the objects in the form of ordered pairs.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+Starts with a welcome, press an key to begin
+Program gives user a puzzle and prompts their input
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+Node Class:
+Nodes for a doubley linked list in increasing order of difficulty. Difficulty is calculated based on size of array and number of
+hidden objects. Generates a random puzzle with the specifications for the particular node.
 
+Linked List Class:
+Organize list of nodes, print out array of a certain node.
+Keep track of the progress of the player, determine a stopping point when they are getting significantly better or worse.
 
 Name each interface or class and briefly describe its function or purpose.
 
